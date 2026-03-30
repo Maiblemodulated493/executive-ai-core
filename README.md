@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Convergence-Human-And-Technology/executive-ai-core/main/ExecAI-executive-ai-core-co.png" alt="ExecAI - A Minimal Executive AI" width="100%">
 </p>
 
-# executive-ai-core
+# Executive Ai Core
 A minimal, fully commented Python executive AI agent. For students, teachers and junior devs who want to understand agentic AI from the ground up.
 
 - https://github.com/Convergence-Human-And-Technology/executive-ai-core
